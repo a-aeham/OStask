@@ -1,5 +1,2 @@
-# OStask :
-Our Story Company Task. <br  />
-Register and Login by Firebase. <br  />
-CRUD Notes by RealTime Database Firebase. <br  />
-Use Bloc StateManagement. <br  />
+# OStask : <br  />
+Register & Login UI
